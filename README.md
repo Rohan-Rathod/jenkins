@@ -1,4 +1,3 @@
-kubernetes
-
+devops
 # jenkins
 docker
